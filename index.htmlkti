@@ -30,7 +30,7 @@
         <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
           <ul class="navbar-nav ms-auto">
             <li class="nav-item"><a class="nav-link" href="#o-meni">O meni</a></li>
-            <li class="nav-item"><a class="nav-link" href="#portofolio">Radovi</a></li>
+            <li class="nav-item"><a class="nav-link" href="#portofolio">Projekti</a></li>
             <li class="nav-item"><a class="nav-link" href="#contact-me">Kontakt</a></li>
           </ul>
         </div>
@@ -84,8 +84,8 @@
   <hr>
   <section class="" id="portofolio">
 
-    <h2>Radovi</h2>
-    <p>Ovdje su prikazani radovi koje sam izradio. </p>
+    <h2>Projekti</h2>
+    <p>Ovdje su prikazani projekti koje sam izradio. </p>
     <div class="row">
       <div class="col-lg-4">
         <img class="rounded-circle"
@@ -116,7 +116,7 @@
   <hr>
   <div id="contact-me">
     <h2>Kontaktirajte me</h2>
-    <p class="outro">Sviđaju ti se moji radovi ili imamo zajedničke hobije? Kontaktiraj me!
+    <p class="outro">Sviđaju ti se moji projekti ili imamo zajedničke hobije? Kontaktiraj me!
     </p>
     <button type="button" class="btn btn-lg"><a href="mailto:edi.miletic1@gmail.com">Kontaktiraj me</a></button>
   </div>
